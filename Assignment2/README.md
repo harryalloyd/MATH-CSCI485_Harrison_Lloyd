@@ -33,4 +33,5 @@ The terminal will also display:
 - Baseline R^2 score (Task 2)
 - Optimal k selection with threshold information (Task 3.5)
 
-See **executed_code** screenshot for example output.
+## Example Output
+![Executed Code Screenshot](executed_code.png)
